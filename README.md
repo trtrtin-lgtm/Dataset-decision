@@ -94,19 +94,6 @@ Dataset-decision/
 │   ├── fig5_order_effects.png          <- Figure 5: Joint probabilities & QQ equality diagonal
 │   ├── fig6_parameter_recovery.png     <- Figure 6: Synthetic recovery under low and realistic noise
 │   └── fig7_krajbich_validation.png    <- Figure 7: Benchmark trajectories and Delta-BIC distribution
-│
-├── manuscripts/                        <- Preprints and finalized submission documents
-│   ├── Manuscript_Nature_English_Final.pdf  <- Complete English manuscript (Publication-ready, 26 pages)
-│   ├── Manuscript_Nature_English_Final.docx <- Word version formatted with Nature styling
-│   ├── BaoCao_Nature_TiengViet_Final.pdf    <- Complete Vietnamese report (26 pages)
-│   └── BaoCao_Nature_TiengViet_Final.docx   <- Word version in Vietnamese
-│
-└── latex/                              <- Production LaTeX source bundle
-    ├── main_en.tex                     <- English LaTeX manuscript
-    ├── main_vi.tex                     <- Vietnamese LaTeX manuscript
-    ├── references.bib                  <- BibTeX bibliography database
-    ├── latex_manuscript.zip            <- Complete packaged zip archive for journal submission
-    └── figures/                        <- High-resolution figure assets for LaTeX compilation
 ```
 
 ---
