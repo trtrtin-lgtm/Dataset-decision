@@ -242,7 +242,7 @@ python GUI_App/visualization.py --export-all --dpi 300 --outdir results/
 
 ## 9. Ethics Statement & Governance
 
-This research was conducted in accordance with the principles of the **Declaration of Helsinki**. According to national regulations and institutional guidelines at **Ho Chi Minh City University of Technology (HCMUT), VNU-HCM**, formal ethics approval was not required because this study was a non-interventional, minimal-risk behavioral investigation involving fully anonymized eye-tracking data and public benchmark archives. Written informed consent was obtained from all participants prior to testing.
+Ethics Approval and Consent to Participate: All procedures performed in this study involving human participants were conducted in accordance with the ethical standards of the institutional and/or national research  ommittee and with the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards. The investigation was an observational, non-interventional cognitive psychophysics study posing no more than minimal risk. Written informed consent was obtained from all individual participants prior to inclusion in the study. All data were fully anonymized and de-identified. 
 
 **Conflict of Interest:** The authors declare no competing financial or non-financial interests.  
 **Funding:** This study received no external financial funding. Supported by facilities at Ho Chi Minh City University of Technology (HCMUT), VNU-HCM.
