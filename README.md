@@ -101,7 +101,7 @@ Dataset-decision/
 ## 4. Data Dictionary & Formats
 
 ### 4.1 Eye-Tracking Raw Logs (`data/raw_eyetracking/`)
-- `Subject`: Participant identifier (`P01` to `P20`).
+- `Subject`: Participant identifier (`S01` to `S20`).
 - `Scenario`: Decision dilemma context (e.g., `Job_Choice`, `Academic_Integrity`, `Course_Retake`).
 - `Time`: Elapsed trial time (ms) sampled at 60 Hz.
 - `GazePosX`, `GazePosY`: Normalized gaze coordinate positions on the 1440 × 900 px active display.
